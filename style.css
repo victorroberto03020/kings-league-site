@@ -58,9 +58,9 @@ header h1 > strong {
 
 nav {
     font-family: var(--fonte-padrão);
-    background: black;
+    background-image: linear-gradient(to right, var(--cor2), #3d3401, black,black,black,black,black,black,black,#3d3401, var(--cor2));
     text-align: center;
-    height: 6vh;
+    height: 7vh;
 
     box-shadow: 1px 1px 5px black;
 }
