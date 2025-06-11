@@ -61,12 +61,12 @@ header h1 > strong {
 }
 
 nav {
-    margin-top: 0px;
+    margin-top: 10px;
     padding-top: 5px;
     font-family: var(--fonte-padrão);
     background: white;
     text-align: center;
-    height: 4.5vh;
+    height: 4.7vh;
 }
 
 nav > a {

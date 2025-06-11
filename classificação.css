@@ -61,23 +61,29 @@ header h1 > strong {
 }
 
 nav {
-    margin-top: 0px;
-    padding-top: 0px;
+    margin-top: 10px;
+    padding-top: 5px;
     font-family: var(--fonte-padrão);
     background: white;
     text-align: center;
-    height: 5vh;
+    height: 4.7vh;
 }
 
 nav > a {
     color: black;
     text-decoration: none;
     padding-right: 12px;
-    font-size: 19px;
+    font-size: 20px;
+    box-sizing: border-box;
 }
 
 nav > a:hover {
     color: var(--cor2);
+}
+
+nav img { 
+    box-sizing: border-box;
+    margin-bottom: -5px;
 }
 
 main {
