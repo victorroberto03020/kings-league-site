@@ -126,26 +126,60 @@ section img {
 
 footer {
     height: 90vh;
+    margin: auto;
 }
 
 body footer {
     background-color: rgba(61, 61, 61, 0.534);
 }
 
-footer a > img {
-    box-sizing: border-box;
-    margin-top: 35px;
-    margin-left: 10%;
+footer a#i1 {
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 20%;
+    transform: translate(-20%);
+} 
+
+footer a#i2 {
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 50%;
+    transform: translate(-50%);
+} 
+
+footer a#i3 {
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 80%;
+    transform: translate(-80%);
+} 
+
+footer a#i4 {
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 20%;
+    transform: translate(-20%);
+}
+
+footer a#i5 {
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+
+footer a#i6 {
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 80%;
+    transform: translate(-80%);
 } 
 
 footer > div#kl {
+    margin-top: 140px;
     display: flex;
+    justify-content: center;
     align-items: center;
-    margin-left: 55%;
-    transform: translate(-50%);
-
-    padding-top: 38px;
-    box-sizing: border-box;
 }
 
  ::-webkit-scrollbar {
