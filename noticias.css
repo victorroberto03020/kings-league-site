@@ -21,7 +21,7 @@
 }
 
 body {
-   background-image: linear-gradient(to right, var(--cor2), #3d3401, black,black,black,black,black,black,black, black, #3d3401, var(--cor2));;
+   background-color: rgb(0, 0, 0);
 }
 
 header {
@@ -61,10 +61,12 @@ header h1 > strong {
 }
 
 nav {
-    margin-top: 10px;
-    padding-top: 5px;
+    background-color: white;
+    color: var(--cor0);
+
+    margin-top: 0px;
+    padding-top: 8px;
     font-family: var(--fonte-padrão);
-    background: white;
     text-align: center;
     height: 4.7vh;
 }
@@ -72,9 +74,8 @@ nav {
 nav > a {
     color: black;
     text-decoration: none;
-    padding-right: 35px;
+    padding-right: 20px;
     font-size: 18px;
-    box-sizing: border-box;
 }
 
 nav > a:hover {
@@ -87,7 +88,7 @@ nav img {
 }
 
 main {
-    background-color: rgb(0, 0, 0);
+    background-color: black;
     min-width: 400px;
     max-width: 800px;
     margin: auto;
@@ -115,10 +116,10 @@ section > p {
     text-align: justify;
     margin: 10px;
     font-family: var(--fonte-padrão);
-    line-height: 1.3em;
-    letter-spacing: 1.5px;
-    margin-left: 10%;
-    margin-right: 10%;
+    line-height: 1.6em;
+    letter-spacing: 1px;
+    margin-left: 4%;
+    margin-right: 4%;
 }
 
 section img {
@@ -126,6 +127,68 @@ section img {
     display: block;
     margin: auto;
     width: 100%;
+}
+
+footer {
+    height: 90vh;
+    margin: auto;
+}
+
+body footer {
+    background-color: rgba(61, 61, 61, 0.534);
+}
+
+/* todos patrocinios */
+
+footer a#i1 {
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 20%;
+    transform: translate(-20%);
+} 
+
+footer a#i2 {
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 50%;
+    transform: translate(-50%);
+} 
+
+footer a#i3 {
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 80%;
+    transform: translate(-80%);
+} 
+
+footer a#i4 {
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 20%;
+    transform: translate(-20%);
+}
+
+footer a#i5 {
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+
+footer a#i6 {
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 80%;
+    transform: translate(-80%);
+} 
+
+/* todos patrocinios */
+
+footer > div#kl {
+    margin-top: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
  ::-webkit-scrollbar {
