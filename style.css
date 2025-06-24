@@ -179,6 +179,41 @@ footer a#i6 {
 
 /* todos patrocinios */
 
+footer a#r1 {
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 30%;
+    transform: translate(-30%);
+}
+
+footer a#r2 {
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 40%;
+    transform: translate(-40%);
+}
+
+footer a#r3 {
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+
+footer a#r4 {
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 60%;
+    transform: translate(-60%);
+}
+
+footer a#r5 {
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 70%;
+    transform: translate(-70%);
+}
+
 footer > div#kl {
     margin-top: 140px;
     display: flex;
