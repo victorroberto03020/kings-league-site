@@ -82,6 +82,11 @@ nav > a:hover {
     color: var(--cor2);
 }
 
+nav img {
+    box-sizing: border-box;
+    margin-bottom: -5px;
+}
+
 main {
     background-color: black;
     min-width: 400px;
