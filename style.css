@@ -125,7 +125,7 @@ section img {
 }
 
 footer {
-    height: 90vh;
+    height: 95vh;
     margin: auto;
 }
 
@@ -182,35 +182,35 @@ footer a#i6 {
 /* todas redes sociais */
 
 footer a#r1 {
-    margin-top: 40px;
+    margin-top: 90px;
     position: absolute;
     margin-left: 20%;
     transform: translate(-20%);
 }
 
 footer a#r2 {
-    margin-top: 40px;
+    margin-top: 90px;
     position: absolute;
     margin-left: 35%;
     transform: translate(-35%);
 }
 
 footer a#r3 {
-    margin-top: 40px;
+    margin-top: 90px;
     position: absolute;
     margin-left: 50%;
     transform: translate(-50%);
 }
 
 footer a#r4 {
-    margin-top: 40px;
+    margin-top: 90px;
     position: absolute;
     margin-left: 65%;
     transform: translate(-65%);
 }
 
 footer a#r5 {
-    margin-top: 40px;
+    margin-top: 90px;
     position: absolute;
     margin-left: 80%;
     transform: translate(-80%);
@@ -219,10 +219,24 @@ footer a#r5 {
 /* todas redes sociais */
 
 footer > div#kl {
-    margin-top: 140px;
+    margin-top: 165px;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+footer > p {
+    color: white;
+    margin-top: 200px;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 17px;
+}
+
+footer p a {
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
 }
 
  ::-webkit-scrollbar {
