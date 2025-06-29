@@ -92,13 +92,23 @@ table {
     width: 100%;
 }
 
+div#tbl {
+    border-radius: 6px;
+    overflow-x: auto;
+}
+
 tr#titulo {
-    background-color: rgba(61, 61, 61, 0.534);
+    background-color: rgba(61, 61, 61, 0.445);
+    height: 5vh;
+    font-size: 12px;
 }
 
 tr {
     background-color: rgba(169, 169, 169, 0.281);
-    
+}
+
+tr:nth-child(odd) {
+    background-color: rgba(61, 61, 61, 0.712);
 }
 
 td {
@@ -107,6 +117,29 @@ td {
     text-align: center;
     padding-left: 10px;
     padding-right: 10px;
+}
+
+td.posiç {
+    font-weight: bolder;
+    background-color: rgba(61, 61, 61, 0.712);
+}
+
+td.time {
+    font-weight: bolder;
+}
+
+td.pts {
+    font-weight: bolder;
+}
+
+td#sf {
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(to right, green, rgba(61, 61, 61, 0.712), rgba(61, 61, 61, 0.712),rgba(61, 61, 61, 0.712));
+}
+
+td#qf {
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(to right, rgba(255, 255, 0, 0.719), rgba(61, 61, 61, 0.712), rgba(61, 61, 61, 0.712),rgba(61, 61, 61, 0.712));
 }
 
 main {
