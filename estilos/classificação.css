@@ -203,44 +203,70 @@ section img {
     border-radius: 7px;
 }
 
+/* estatsiticas de jogadoires */
+
+/* jogadoires fileira 1 */
+
 section > div#esta {
     margin: -25px auto;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
 }
 
 div#d1 img {
+    background-image: url(../imagens/fundo\ jogador.png);
     width: 225px;
     height: 350px;
 }
 
 div#d2 img {
+    background-image: url(../imagens/fundo\ jogador.png);
     width: 225px;
     height: 350px;
 }
 
+/* jogadoires fileira 2 */
+
 section > div#esta2 {
-    margin: -25px auto;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
 }
 
 div#d3 img {
+    background-image: url(../imagens/fundo\ jogador.png);
     width: 225px;
     height: 350px;
 }
 
 div#d4 img {
+    background-image: url(../imagens/fundo\ jogador.png);
     width: 225px;
     height: 350px;
 }
 
+/* jogadoires fileira 3 */
+
+section > div#esta3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 div#d5 img {
+    background-image: url(../imagens/fundo\ jogador.png);
     width: 225px;
     height: 350px;
 }
+
+div#d6 img {
+    background-image: url(../imagens/fundo\ jogador.png);
+    width: 225px;
+    height: 350px;
+}
+
+/* estatsiticas de jogadoires FIM */
 
 footer {
     height: 95vh;
