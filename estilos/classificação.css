@@ -212,6 +212,7 @@ section > div#esta {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-top: 25px;
 }
 
 div#d1 img {
@@ -220,10 +221,24 @@ div#d1 img {
     height: 350px;
 }
 
+div#d1 h1 {
+    text-align: center;
+    font-family: var(--fonte-destaque);
+    color: var(--cor0);
+    padding: 5px;
+}
+
 div#d2 img {
     background-image: url(../imagens/fundo\ jogador.png);
     width: 225px;
     height: 350px;
+}
+
+div#d2 h1 {
+    text-align: center;
+    font-family: var(--fonte-destaque);
+    color: white;
+    padding: 5px;
 }
 
 /* jogadoires fileira 2 */
@@ -232,6 +247,7 @@ section > div#esta2 {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-top: 30px;
 }
 
 div#d3 img {
@@ -240,10 +256,24 @@ div#d3 img {
     height: 350px;
 }
 
+div#d3 h1 {
+    text-align: center;
+    font-family: var(--fonte-destaque);
+    color: white;
+    padding: 5px;
+}
+
 div#d4 img {
     background-image: url(../imagens/fundo\ jogador.png);
     width: 225px;
     height: 350px;
+}
+
+div#d4 h1 {
+    text-align: center;
+    font-family: var(--fonte-destaque);
+    color: white;
+    padding: 5px;
 }
 
 /* jogadoires fileira 3 */
@@ -252,6 +282,7 @@ section > div#esta3 {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-top: 20px;
 }
 
 div#d5 img {
@@ -260,10 +291,24 @@ div#d5 img {
     height: 350px;
 }
 
+div#d5 h1 {
+    text-align: center;
+    font-family: var(--fonte-destaque);
+    color: white;
+    padding: 5px;
+}
+
 div#d6 img {
     background-image: url(../imagens/fundo\ jogador.png);
     width: 225px;
     height: 350px;
+}
+
+div#d6 h1 {
+    text-align: center;
+    font-family: var(--fonte-destaque);
+    color: white;
+    padding: 5px;
 }
 
 /* estatsiticas de jogadoires FIM */
