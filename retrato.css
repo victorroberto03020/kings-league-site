@@ -213,6 +213,7 @@ section > div#esta {
     justify-content: space-evenly;
     align-items: center;
     padding-top: 20px;
+    padding-left: 70px;
 }
 
 div#d1 img {
@@ -221,10 +222,22 @@ div#d1 img {
     height: 150px;
 }
 
+div#d1 h1 {
+    text-align: center;
+    font-family: var(--fonte-destaque);
+    color: var(--cor0);
+}
+
 div#d2 img {
     background-image: url(../kings-league-site/imagens/fundo\ jogador\ pqn.png);
     width: 100px;
     height: 150px;
+}
+
+div#d2 h1 {
+    text-align: center;
+    font-family: var(--fonte-destaque);
+    color: white;
 }
 
 /* jogadoires fileira 2 */
@@ -234,6 +247,8 @@ section > div#esta2 {
     justify-content: space-evenly;
     align-items: center;
     padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 30px;
 }
 
 div#d3 img {
@@ -242,10 +257,24 @@ div#d3 img {
     height: 150px;
 }
 
+div#d3 h1 {
+    text-align: center;
+    font-family: var(--fonte-destaque);
+    color: white;
+    padding: 0px;
+}
+
 div#d4 img {
     background-image: url(../kings-league-site/imagens/fundo\ jogador\ pqn.png);
     width: 100px;
     height: 150px;
+}
+
+div#d4 h1 {
+    text-align: center;
+    font-family: var(--fonte-destaque);
+    color: white;
+    padding-right: 30px;
 }
 
 /* jogadoires fileira 3 */
@@ -255,6 +284,7 @@ section > div#esta3 {
     justify-content: space-evenly;
     align-items: center;
     padding-top: 20px;
+    padding-left: 10px;
 }
 
 div#d5 img {
@@ -263,10 +293,24 @@ div#d5 img {
     height: 150px;
 }
 
+div#d5 h1 {
+    text-align: center;
+    font-family: var(--fonte-destaque);
+    color: white;
+    padding: 0px;
+}
+
 div#d6 img {
     background-image: url(../kings-league-site/imagens/fundo\ jogador\ pqn.png);
     width: 100px;
     height: 150px;
+}
+
+div#d6 h1 {
+    text-align: center;
+    font-family: var(--fonte-destaque);
+    color: white;
+    padding: 0px;
 }
 
 /* estatsiticas de jogadoires FIM */
