@@ -283,7 +283,8 @@ section > div#esta3 {
     justify-content: space-evenly;
     align-items: center;
     padding-top: 20px;
-    padding-left: 8px;
+    padding-left: 8,
+    px;
 }
 
 div#d5 img {

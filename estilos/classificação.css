@@ -228,6 +228,23 @@ div#d1 h1 {
     padding: 5px;
 }
 
+div#d1 > div.container2 {
+    display: flex;
+    align-items: center;
+}
+
+div#d1 > div.container2 > img.semfundo {
+    background-image: url(../);
+    width: 50px;
+    height: 50px;
+}
+
+div#d1 > div.container2 > h2 {
+    font-family: var(--fonte-padrão);
+    margin-right: 50px;
+    margin-left: -20px;
+}
+
 div#d2 img {
     background-image: url(../imagens/fundo\ jogador.png);
     width: 225px;
@@ -239,6 +256,23 @@ div#d2 h1 {
     font-family: var(--fonte-destaque);
     color: white;
     padding: 5px;
+}
+
+div#d2 > div.container2 {
+    display: flex;
+    align-items: center;
+}
+
+div#d2 > div.container2 > img.semfundo {
+    background-image: url(../);
+    width: 50px;
+    height: 50px;
+}
+
+div#d2 > div.container2 > h2 {
+    font-family: var(--fonte-padrão);
+    margin-right: 50px;
+    margin-left: -20px;
 }
 
 /* jogadoires fileira 2 */
@@ -263,6 +297,23 @@ div#d3 h1 {
     padding: 5px;
 }
 
+div#d3 > div.container2 {
+    display: flex;
+    align-items: center;
+}
+
+div#d3 > div.container2 > img.semfundo {
+    background-image: url(../);
+    width: 50px;
+    height: 50px;
+}
+
+div#d3 > div.container2 > h2 {
+    font-family: var(--fonte-padrão);
+    margin-right: 57px;
+    margin-left: -35px;
+}
+
 div#d4 img {
     background-image: url(../imagens/fundo\ jogador.png);
     width: 225px;
@@ -274,6 +325,23 @@ div#d4 h1 {
     font-family: var(--fonte-destaque);
     color: white;
     padding: 5px;
+}
+
+div#d4 > div.container2 {
+    display: flex;
+    align-items: center;
+}
+
+div#d4 > div.container2 > img.semfundo {
+    background-image: url(../);
+    width: 50px;
+    height: 50px;
+}
+
+div#d4 > div.container2 > h2 {
+    font-family: var(--fonte-padrão);
+    margin-right: 0px;
+    margin-left: 0px;
 }
 
 /* jogadoires fileira 3 */
@@ -298,6 +366,23 @@ div#d5 h1 {
     padding: 5px;
 }
 
+div#d5 > div.container2 {
+    display: flex;
+    align-items: center;
+}
+
+div#d5 > div.container2 > img.semfundo {
+    background-image: url(../);
+    width: 50px;
+    height: 50px;
+}
+
+div#d5 > div.container2 > h2 {
+    font-family: var(--fonte-padrão);
+    margin-right: 40px;
+    margin-left: -15px;
+}
+
 div#d6 img {
     background-image: url(../imagens/fundo\ jogador.png);
     width: 225px;
@@ -309,6 +394,23 @@ div#d6 h1 {
     font-family: var(--fonte-destaque);
     color: white;
     padding: 5px;
+}
+
+div#d6 > div.container2 {
+    display: flex;
+    align-items: center;
+}
+
+div#d6 > div.container2 > img.semfundo {
+    background-image: url(../);
+    width: 50px;
+    height: 50px;
+}
+
+div#d6 > div.container2 > h2 {
+    font-family: var(--fonte-padrão);
+    margin-right: 30px;
+    margin-left: -20px;
 }
 
 /* estatsiticas de jogadoires FIM */
