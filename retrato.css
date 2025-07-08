@@ -225,7 +225,7 @@ div#d1 h1 {
     font-family: var(--fonte-destaque);
     color: var(--cor0);
     margin-top: 10px;
-    padding: 20px;
+    padding: 10px;
 }
 
 div#d1 > div.container2 {
@@ -256,7 +256,7 @@ div#d2 h1 {
     font-family: var(--fonte-destaque);
     color: white;
     margin-top: 25px;
-    padding: 20px;
+    padding: 10px;
 }
 
 div#d2 > div.container2 {
@@ -296,7 +296,7 @@ div#d3 h1 {
     font-family: var(--fonte-destaque);
     color: white;
     margin-top: 25px;
-    padding: 20px;
+    padding: 10px;
 }
 
 div#d3 > div.container2 {
@@ -327,7 +327,7 @@ div#d4 h1 {
     font-family: var(--fonte-destaque);
     color: white;
     margin-top: 25px;
-    padding: 20px;
+    padding: 10px;
 }
 
 div#d4 > div.container2 {
@@ -367,7 +367,7 @@ div#d5 h1 {
     font-family: var(--fonte-destaque);
     color: white;
     margin-top: -25px;
-    padding: 20px;
+    padding: 10px;
 }
 
 div#d5 > div.container2 {
@@ -384,7 +384,7 @@ div#d5 > div.container2 > img.semfundo {
 
 div#d5 > div.container2 > h2 {
     font-family: var(--fonte-padrão);
-    margin-right: 80px;
+    margin-right: 50px;
 }
 
 div#d6 img {
@@ -398,7 +398,7 @@ div#d6 h1 {
     font-family: var(--fonte-destaque);
     color: white;
     margin-top: 25px;
-    padding: 20px;
+    padding: 10px;
 }
 
 div#d6 > div.container2 {
@@ -415,7 +415,7 @@ div#d6 > div.container2 > img.semfundo {
 
 div#d6 > div.container2 > h2 {
     font-family: var(--fonte-padrão);
-    margin-right: 65px;
+    margin-right: 40px;
 }
 
 /* estatsiticas de jogadoires FIM */
