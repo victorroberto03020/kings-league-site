@@ -209,11 +209,9 @@ section img {
 
 section > div#esta {
     margin: -25px auto;
-    display: flex;
-    justify-content: space-evenly;
+    display: block;
     align-items: center;
     padding-top: 20px;
-    padding-left: 28px;
 }
 
 div#d1 img {
@@ -228,6 +226,23 @@ div#d1 h1 {
     color: var(--cor0);
 }
 
+div#d1 > div.container2 {
+    display: flex;
+    align-items: center;
+}
+
+div#d1 > div.container2 > img.semfundo {
+    background-image: url(../);
+    width: 50px;
+    height: 50px;
+}
+
+div#d1 > div.container2 > h2 {
+    font-family: var(--fonte-padrão);
+    margin-right: 50px;
+    margin-left: -20px;
+}
+
 div#d2 img {
     background-image: url(../kings-league-site/imagens/fundo\ jogador\ pqn.png);
     width: 100px;
@@ -240,12 +255,27 @@ div#d2 h1 {
     color: white;
 }
 
+div#d2 > div.container2 {
+    display: flex;
+    align-items: center;
+}
+
+div#d2 > div.container2 > img.semfundo {
+    background-image: url(../);
+    width: 50px;
+    height: 50px;
+}
+
+div#d2 > div.container2 > h2 {
+    font-family: var(--fonte-padrão);
+    margin-right: 50px;
+    margin-left: -20px;
+}
+
 /* jogadoires fileira 2 */
 
 section > div#esta2 {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
+    display: block;
     padding-top: 20px;
     padding-left: 36px;
     padding-right: 35px;
@@ -264,6 +294,23 @@ div#d3 h1 {
     padding: 0px;
 }
 
+div#d3 > div.container2 {
+    display: flex;
+    align-items: center;
+}
+
+div#d3 > div.container2 > img.semfundo {
+    background-image: url(../);
+    width: 50px;
+    height: 50px;
+}
+
+div#d3 > div.container2 > h2 {
+    font-family: var(--fonte-padrão);
+    margin-right: 57px;
+    margin-left: -35px;
+}
+
 div#d4 img {
     background-image: url(../kings-league-site/imagens/fundo\ jogador\ pqn.png);
     width: 100px;
@@ -276,12 +323,27 @@ div#d4 h1 {
     color: white;
 }
 
+div#d4 > div.container2 {
+    display: flex;
+    align-items: center;
+}
+
+div#d4 > div.container2 > img.semfundo {
+    background-image: url(../);
+    width: 50px;
+    height: 50px;
+}
+
+div#d4 > div.container2 > h2 {
+    font-family: var(--fonte-padrão);
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
 /* jogadoires fileira 3 */
 
 section > div#esta3 {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
+    display: block;
     padding-top: 20px;
     padding-left: 8,
     px;
@@ -300,6 +362,23 @@ div#d5 h1 {
     padding: 0px;
 }
 
+div#d5 > div.container2 {
+    display: flex;
+    align-items: center;
+}
+
+div#d5 > div.container2 > img.semfundo {
+    background-image: url(../);
+    width: 50px;
+    height: 50px;
+}
+
+div#d5 > div.container2 > h2 {
+    font-family: var(--fonte-padrão);
+    margin-right: 40px;
+    margin-left: -15px;
+}
+
 div#d6 img {
     background-image: url(../kings-league-site/imagens/fundo\ jogador\ pqn.png);
     width: 100px;
@@ -311,6 +390,23 @@ div#d6 h1 {
     font-family: var(--fonte-destaque);
     color: white;
     padding: 0px;
+}
+
+div#d6 > div.container2 {
+    display: flex;
+    align-items: center;
+}
+
+div#d6 > div.container2 > img.semfundo {
+    background-image: url(../);
+    width: 50px;
+    height: 50px;
+}
+
+div#d6 > div.container2 > h2 {
+    font-family: var(--fonte-padrão);
+    margin-right: 15px;
+    margin-left: 0px;
 }
 
 /* estatsiticas de jogadoires FIM */
