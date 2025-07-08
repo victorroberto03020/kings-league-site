@@ -171,7 +171,7 @@ section {
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
 
-    height: 460vh;
+    height: 3200px;
 }
 
 section > h1 {
@@ -237,7 +237,7 @@ div#d1 > div.container2 > img.semfundo {
     background-image: url(../);
     width: 50px;
     height: 50px;
-    margin-right: 40px;
+    margin-right: 30px;
 }
 
 div#d1 > div.container2 > h2 {
@@ -268,7 +268,7 @@ div#d2 > div.container2 > img.semfundo {
     background-image: url(../);
     width: 50px;
     height: 50px;
-    margin-right: 40px;
+    margin-right: 30px;
 }
 
 div#d2 > div.container2 > h2 {
@@ -379,12 +379,12 @@ div#d5 > div.container2 > img.semfundo {
     background-image: url(../);
     width: 50px;
     height: 50px;
-    margin-right: 30px;
+    margin-right: 25px;
 }
 
 div#d5 > div.container2 > h2 {
     font-family: var(--fonte-padrão);
-    margin-right: 100px;
+    margin-right: 80px;
 }
 
 div#d6 img {
@@ -410,12 +410,12 @@ div#d6 > div.container2 > img.semfundo {
     background-image: url(../);
     width: 50px;
     height: 50px;
-    margin-right: 10px;
+    margin-right: 5px;
 }
 
 div#d6 > div.container2 > h2 {
     font-family: var(--fonte-padrão);
-    margin-right: 100px;
+    margin-right: 65px;
 }
 
 /* estatsiticas de jogadoires FIM */
