@@ -171,7 +171,7 @@ section {
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
 
-    height: 3200px;
+    height: 3050px;
 }
 
 section > h1 {
@@ -384,7 +384,7 @@ div#d5 > div.container2 > img.semfundo {
 
 div#d5 > div.container2 > h2 {
     font-family: var(--fonte-padrão);
-    margin-right: 50px;
+    margin-right: 60px;
 }
 
 div#d6 img {
@@ -415,7 +415,7 @@ div#d6 > div.container2 > img.semfundo {
 
 div#d6 > div.container2 > h2 {
     font-family: var(--fonte-padrão);
-    margin-right: 40px;
+    margin-right: 45px;
 }
 
 /* estatsiticas de jogadoires FIM */
