@@ -129,6 +129,35 @@ section img {
     width: 100%;
 }
 
+h1 {
+    color: var(--cor0);
+    text-shadow: 0px 1px 1px #EDCB0C;
+    text-align: center;
+    font-family: var(--fonte-destaque);
+    font-size: 1.7em;
+    padding-top: 35px;
+    padding-bottom: 7px;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 15px;
+}
+
+div p {
+    color: white;
+    text-align: justify;
+    font-family: var(--fonte-padrão);
+    line-height: 1.6em;
+    letter-spacing: .5px;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
 footer {
     height: 95vh;
     margin: auto;
