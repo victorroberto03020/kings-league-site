@@ -158,6 +158,10 @@ div p {
     margin-right: 4%;
 }
 
+div#ultimaImg {
+    padding-bottom: 25px;
+}
+
 footer {
     height: 95vh;
     margin: auto;
