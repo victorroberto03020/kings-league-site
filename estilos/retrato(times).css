@@ -152,7 +152,7 @@ div #simbolo {
 
 div p {
     color: white;
-    text-align: left;
+    text-align: justify;
     font-family: var(--fonte-padrão);
     line-height: 1.6em;
     margin-left: 4%;
