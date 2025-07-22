@@ -101,6 +101,8 @@ section {
 
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
+
+    height: 377vh;
 }
 
 section > h1 {
@@ -109,7 +111,14 @@ section > h1 {
     text-align: center;
     font-family: var(--fonte-destaque);
     font-size: 1.7em;
-    padding-top: 18px;
+    padding-top: 28px;
+}
+
+section h2 {
+    font-family: var(--fonte-destaque);
+    color: rgb(255, 192, 76);
+    text-align: center;
+    padding-top: 30px;
 }
 
 section > p {
@@ -127,6 +136,18 @@ section img {
     display: block;
     margin: auto;
     width: 100%;
+}
+
+section ul li {
+    font-family: var(--fonte-padrão);
+    line-height: 1.6em;
+    letter-spacing: 1px;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+section li {
+    padding: 5px;
 }
 
 footer {

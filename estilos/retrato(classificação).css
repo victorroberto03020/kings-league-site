@@ -254,7 +254,7 @@ div#d2 img {
 div#d2 h1 {
     text-align: center;
     font-family: var(--fonte-destaque);
-    color: white;
+    color: rgb(255, 192, 76);
     margin-top: 25px;
     padding: 10px;
 }
@@ -294,7 +294,7 @@ div#d3 img {
 div#d3 h1 {
     text-align: center;
     font-family: var(--fonte-destaque);
-    color: white;
+    color: rgb(255, 192, 76);
     margin-top: 25px;
     padding: 10px;
 }
@@ -325,7 +325,7 @@ div#d4 img {
 div#d4 h1 {
     text-align: center;
     font-family: var(--fonte-destaque);
-    color: white;
+    color: rgb(255, 192, 76);
     margin-top: 25px;
     padding: 10px;
 }
@@ -365,7 +365,7 @@ div#d5 img {
 div#d5 h1 {
     text-align: center;
     font-family: var(--fonte-destaque);
-    color: white;
+    color: rgb(255, 192, 76);
     margin-top: -25px;
     padding: 10px;
 }
@@ -396,7 +396,7 @@ div#d6 img {
 div#d6 h1 {
     text-align: center;
     font-family: var(--fonte-destaque);
-    color: white;
+    color: rgb(255, 192, 76);
     margin-top: 25px;
     padding: 10px;
 }
