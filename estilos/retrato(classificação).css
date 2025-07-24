@@ -225,7 +225,7 @@ div#d1 h1 {
     font-family: var(--fonte-destaque);
     color: var(--cor0);
     margin-top: 10px;
-    padding: 10px;
+    margin-bottom: -20px;
 }
 
 div#d1 > div.container2 {
@@ -257,7 +257,7 @@ div#d2 h1 {
     font-family: var(--fonte-destaque);
     color: rgb(255, 192, 76);
     margin-top: 25px;
-    padding: 10px;
+    margin-bottom: -20px;
 }
 
 div#d2 > div.container2 {
@@ -298,7 +298,7 @@ div#d3 h1 {
     font-family: var(--fonte-destaque);
     color: rgb(255, 192, 76);
     margin-top: 25px;
-    padding: 10px;
+    margin-bottom: -20px;
 }
 
 div#d3 > div.container2 {
@@ -330,7 +330,7 @@ div#d4 h1 {
     font-family: var(--fonte-destaque);
     color: rgb(255, 192, 76);
     margin-top: 25px;
-    padding: 10px;
+    margin-bottom: -20px;
 }
 
 div#d4 > div.container2 {
@@ -371,7 +371,7 @@ div#d5 h1 {
     font-family: var(--fonte-destaque);
     color: rgb(255, 192, 76);
     margin-top: -25px;
-    padding: 10px;
+    margin-bottom: -20px;
 }
 
 div#d5 > div.container2 {
@@ -403,12 +403,13 @@ div#d6 h1 {
     font-family: var(--fonte-destaque);
     color: rgb(255, 192, 76);
     margin-top: 25px;
-    padding: 10px;
+    margin-bottom: -20px;
 }
 
 div#d6 > div.container2 {
     display: flex;
     align-items: center;
+    padding-bottom: 27px;
 }
 
 div#d6 > div.container2 > img.semfundo {
